@@ -6,13 +6,13 @@ This project focuses on exploring a dataset of movies released between 1916 and 
 - Pandas 
 - Matplotlib 
 # Installation
-Clone the repository to your local machine:
-git clone https://github.com/[your_username]/python-movie-analysis.git
-Install the required libraries:
-pip install pandas matplotlib
+Clone the repository to your local machine:<br>
+git clone https://github.com/[your_username]/python-movie-analysis.git<br>
+Install the required libraries:<br>
+pip install pandas matplotlib<br>
 
 # Usage
-The project includes a Jupyter Notebook, movie_analysis.ipynb, which contains the code to clean, analyze, and visualize the data. Open the notebook and follow the instructions to run the code.
+The project includes a Jupyter Notebook, Practice+Exercise+2+Movies.ipynb, which contains the code to clean, analyze, and visualize the data. Open the notebook and follow the instructions to run the code.
 
 # Contributions
 This project is open for contributions. If you have any suggestions or improvements, please create a pull request.
