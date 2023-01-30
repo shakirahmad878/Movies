@@ -6,9 +6,9 @@ This project focuses on exploring a dataset of movies released between 1916 and 
 - Pandas 
 - Matplotlib 
 # Installation
-Clone the repository to your local machine:<br>
+- Clone the repository to your local machine:<br>
 git clone https://github.com/[your_username]/python-movie-analysis.git<br>
-Install the required libraries:<br>
+- Install the required libraries:<br>
 pip install pandas matplotlib<br>
 
 # Usage
