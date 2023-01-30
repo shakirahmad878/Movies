@@ -2,9 +2,9 @@
 This project focuses on exploring a dataset of movies released between 1916 and 2016, using Python to gain insights into the data and share the results through data cleaning, analysis, and visualization.
 
 # Requirements 
--Python 3
--Pandas 
--Matplotlib 
+- Python 3
+- Pandas 
+- Matplotlib 
 # Installation
 Clone the repository to your local machine:
 git clone https://github.com/[your_username]/python-movie-analysis.git
